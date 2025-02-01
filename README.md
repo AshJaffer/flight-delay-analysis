@@ -95,7 +95,7 @@ jupyter notebook flight_analysis.ipynb
 - Historical trend comparison
 
 ## Contact Information
-Ashhad Jaffer
-Ajaffer@umich.edu
-University of Michigan-School of Information
-https://www.linkedin.com/in/ash0707/
+- Ashhad Jaffer
+- Ajaffer@umich.edu
+- University of Michigan-School of Information
+- https://www.linkedin.com/in/ash0707/
