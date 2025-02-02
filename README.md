@@ -96,6 +96,6 @@ jupyter notebook flight_analysis.ipynb
 
 ## Contact Information
 Ashhad Jaffer
+- Master's in Data Science at the University of Michigan School of Information
 - Ajaffer@umich.edu
-- University of Michigan-School of Information
 - https://www.linkedin.com/in/ash0707/
